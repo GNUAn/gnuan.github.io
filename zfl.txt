@@ -1,0 +1,55 @@
+                                     Zaur Free License
+                                7 April 2024, Version 1.0
+
+1. Definitions
+"User" means person who gets copy of software protected under this license.
+"This license" means Zaur Free License version 1.0
+"Contributor" means person who made contribution to software protected under this license.
+"Contribution" means changes in source code of program protected under this license.
+"To contribute" means making contribution to program protected under this license.
+"Author" means person who created program protected under this license.
+"Source code" means the preferred form of the work for making modifications to it.
+"Object code" means any non-source form of a work.
+"Compilation" means converting source code to object code, so user can link object code and use the program.
+"Brickification" means restricting user to install software on device, so device is just a brick.
+"Free software" means software protected under free license.
+"Free license" means license that gives user permission to use it for any purpose and in any way, redistribute it in any way, contribute to it and study how it works. This license is free.
+
+2. Permissions
+Permission is granted by author(s) and copyright holder(s) to:
+1. Use programs protected under this license for any purpose.
+2. Redistribute programs protected under this license.
+3. Contribute to programs protected under this license.
+4. Study how programs protected under this license work.
+Under conditions listed in "Conditions" section of this license.
+
+3. Conditions
+1. Brickification of programs protected under this license is forbidden.
+2. Every redistribution and derivative work of programs protected under this license should give attribution to author(s) and copyright holder(s) of original program.
+3. Every derivative work must be protected either under the same license, either under any of GNU licenses, either any other free license.
+4. Getting patent on software protected under this license is forbidden.
+5. (Not necessary) Please, do not use software protected under this license for illegal purposes.
+
+4. Disclaimer of Warranties and Liability
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS OR A BAD QUALITY OF PLAYING EDM MUSIC LIKE TRANCE AND HOUSE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. How to use this license for your work
+To apply this license, simply add file called "NOTICE" to source code of program for which you want to apply this license and add this text to NOTICE file:
+
+    <one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the Zaur Free License as published by
+    the GNUAn, either version 1.0 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    Zaur Free License for more details.
+
+    You should have received a copy of the Zaur Free License
+    along with this program.  If not, see <https://gnuan.github.io/zfl.txt>.
+
+Also add file called "LICENSE" to source code of this license. Add copy of this license to LICENSE file.
