@@ -41,8 +41,8 @@ To apply this license, simply add file called "NOTICE" to source code of program
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the Zaur Free License as published by
-    the GNUAn, either version 1.0 of the License, or
-    (at your option) any later version.
+    GNUAn, either version 1.0 of the License, or (at your option) any 
+    later version.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
