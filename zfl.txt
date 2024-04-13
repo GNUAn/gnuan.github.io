@@ -24,11 +24,10 @@ Permission is granted by author(s) and copyright holder(s) to:
 Under conditions listed in "Conditions" section of this license.
 
 3. Conditions
-1. Brickification of programs protected under this license is forbidden.
-2. Every redistribution and derivative work of programs protected under this license should give attribution to author(s) and copyright holder(s) of original program.
+1. Brickification of devices that use programs protected under this license is forbidden.
+2. Every redistribution and derivative work of programs protected under this license should give attribution to author(s) and/or copyright holder(s) of original program.
 3. Every derivative work must be protected either under the same license, either under any of GNU licenses, either any other free license.
 4. Getting patent on software protected under this license is forbidden.
-5. (Not necessary) Please, do not use software protected under this license for illegal purposes.
 
 4. Disclaimer of Warranties and limitation of Liability
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
@@ -43,5 +42,3 @@ To apply this license, simply add file called "NOTICE" to source code of program
 
   You should have received copy of Zaur Free License with this program,
   if not, see <https://gnuan.github.io/zfl.txt>
-
-Also add file called "LICENSE" to source code of this license. Add copy of this license to LICENSE file.
