@@ -36,7 +36,7 @@ THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
 5. How to use this license for your work
 To apply this license, simply add file called "NOTICE" to source code of program for which you want to apply this license and add this text to NOTICE file:
 
-  (C) <year of creation>  <author>.
+  (C) <year of creation>  <author>
   All files of <name of program> are protected under Zaur Free License if other 
   license is not specified in the copyright notice.
   For more information, see Zaur Free License v1.0.
